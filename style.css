@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+h1,h3{
+    padding: 20px;
+}
+header{
+    text-align: center;
+    background-color: antiquewhite;
+}
+section{
+    display: flex;
+    margin: 100px;
+    justify-content: space-evenly;
+}
+*{
+    text-align: center;
+}
